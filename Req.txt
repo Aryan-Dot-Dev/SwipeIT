@@ -1,0 +1,44 @@
+full name
+email
+phone number
+city, state, country
+
+
+resume (pdf/doc)
+work experience
+        |---> Job Title
+        |---> Company
+        |---> Duration
+        |---> Description
+
+education
+    |--> Degree
+    |--> Institute
+    |--> cgpa / %
+
+certification
+        |--> name
+        |--> provider
+        |--> year
+
+linkedin link
+github link
+portfolio link
+
+
+hard skills
+soft skills
+preferred
+    |--> job roles
+    |--> industry
+    |--> salary range
+    |--> job location
+    |--> job type
+    |       |--> city
+    |       |--> remote
+    |       |--> hybrid
+    |--> notice period
+    |--> work type
+            |--> internship
+            |--> freelance
+            |--> full time

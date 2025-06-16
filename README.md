@@ -1,5 +1,3 @@
-# Your slide deck
-
 # Contributing to SwipeIT (MERN Stack Template)
 
 Thank you for your interest in contributing! This project uses a [MERN stack](https://www.mongodb.com/mern-stack) (MongoDB, Express, React, Node.js) with Vite and Tailwind CSS for the frontend.
@@ -11,7 +9,7 @@ Thank you for your interest in contributing! This project uses a [MERN stack](ht
 - Fork this repository to your GitHub account.
 - Clone your fork:
   ```sh
-  git clone https://github.com/<your-username>/SwipeIT.git
+  git clone https://github.com/Aryan-Dot-Dev/SwipeIT.git
   cd SwipeIT
   ```
 
